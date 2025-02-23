@@ -1,0 +1,19 @@
+{
+  "name": "projetoweb",
+  "version": "1.0.0",
+  "description": "Projeto javascript utilizando Next.js e React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "ogustavone",
+  "license": "MIT",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.8",
+    "next": "^13.1.6",
+    "postcss": "^8.5.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^4.0.8"
+  }
+}
